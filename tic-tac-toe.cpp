@@ -161,9 +161,9 @@ int main(){
 			print_board();
 
 			if(turn) {
-                cout<<endl<<"*** Player 1 with 'O' symbol Won ***";
+                	        cout << endl << " *** Player 1 with 'O' symbol Won *** ";
 			} else {
-			    cout<<endl<<"*** Player 2 with 'X' symbol Won ***";
+			    	cout << endl << " *** Player 2 with 'X' symbol Won *** ";
 			}
 
 			break;
